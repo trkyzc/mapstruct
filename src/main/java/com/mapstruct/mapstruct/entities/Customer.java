@@ -12,5 +12,5 @@ public class Customer {
     private String emailAddress;
     private String phoneNumber; 
     private Date registrationDate; 
-
+    private String region;
 }

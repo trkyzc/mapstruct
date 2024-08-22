@@ -8,5 +8,5 @@ public class OrderDto {
 	private String orderId;
 	private String orderDate;
 	private CustomerDto customerDTO;
-
+	private double totalPrice;
 }

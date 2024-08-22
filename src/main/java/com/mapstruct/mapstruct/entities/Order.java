@@ -10,5 +10,6 @@ public class Order {
 	private Long id;
 	private Date orderDate;
 	private Customer customer;
+	private double totalPrice;
 
 }
